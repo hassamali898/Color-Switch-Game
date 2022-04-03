@@ -1,6 +1,41 @@
-# color_switch
 
-A new Flutter project.
+# Color Switch Game Clone
+
+Hey! Look at this awesome game that i build in flutter
+
+## Demo
+
+Click the link for live preview [**here**](https://colorswitch-clone.netlify.app/#/)
+
+
+## ScreenShot
+
+<img align="center" src="https://hassamali898.weebly.com/uploads/1/3/3/5/133571065/screenshot-2022-04-03-at-8-08-06-am_orig.png" width="100%" />
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/hassamali898/Pong-Game.git
+```
+
+
+Install dependencies
+
+```bash
+  flutter pub
+```
+
+Start the game
+
+```bash
+  flutter run -web
+```
+
+
 
 ## Getting Started
 
